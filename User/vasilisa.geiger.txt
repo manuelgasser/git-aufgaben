@@ -1,4 +1,4 @@
-feature/vorname-nachname-user-informationen
+feature/vasilisa-geiger-user-informationen
 
 vasilisa geiger
 09.10.2009
